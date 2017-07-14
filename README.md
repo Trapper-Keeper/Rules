@@ -2,13 +2,13 @@
 * 14 Teams
 * 20 Roster Slots (Plus 2 IR)
 * Starting Positions:
-..* 1 QB 
-..* 3 WR
-..* 2 RB
-..* 1 TE
-..* 1 W/T
-..* 1 W/R
-..* 1 DEF
+  * 1 QB 
+  * 3 WR
+  * 2 RB
+  * 1 TE
+  * 1 W/T
+  * 1 W/R
+  * 1 DEF
 * 6 Team Playoffs (starting week 14)
 
 ## Draft Rules
