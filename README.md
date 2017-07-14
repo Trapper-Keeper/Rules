@@ -9,7 +9,7 @@
   * 1 W/T
   * 1 W/R
   * 1 DEF
-* 6 Team Playoffs (starting week 14)
+* 6 Team Playoffs (Top 2 bye, starting Week 14)
 
 ## Draft Rules
 ### Draft Order
